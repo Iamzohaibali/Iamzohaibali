@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there , I am Zohaib Ahmad Ali👋
 
 - 🔭 I’m currently working on full-stack web apps using **MERN** & **Python**
 - 🌱 I’m currently learning **Data Science**, **TypeScript**, and **Next.js**

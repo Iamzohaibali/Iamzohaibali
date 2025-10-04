@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open-source projects and impactful products
 - 🤔 I’m looking for help with mastering **AI/ML** and building scalable systems
 - 💬 Ask me about **React**, **Node.js**, **Express**, **Pandas**, or anything tech!
-- 📫 How to reach me: j36740062@gmail.com
+- 📫 How to reach me: zohaibahmed20002@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning ideas into real-world solutions & exploring new tech trends 🚀
 
